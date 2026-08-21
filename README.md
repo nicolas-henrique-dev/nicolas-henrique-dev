@@ -1,8 +1,11 @@
 # Olá! 👋 Eu sou Nicolas Henrique
 
 🎓 Estudante de **Ciência da Computação**
+
 💻 Atualmente aprendendo **programação e desenvolvimento de software**
+
 🐍 Estudando principalmente **Python**
+
 🌱 Construindo meus primeiros projetos e desenvolvendo fundamentos de Ciência da Computação
 
 ## 🚀 Sobre mim
