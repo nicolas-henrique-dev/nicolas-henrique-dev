@@ -1,93 +1,40 @@
-```text
-# ==============================================================================
-#                  SYSTEM ACCESS: GRANTED // USER: NICOLAS
-# ==============================================================================
+# Nicolas Henrique
 
-$ whoami
+**Computer Science Student | Aspiring Backend Developer**
 
-Nicolas Henrique
+I'm currently studying Computer Science and building my foundation in programming and software development.
 
-Computer Science Student
-Aspiring Backend Developer
-Brazil
+## Currently Learning
 
+* Python
+* C
+* Algorithms & Data Structures
+* Git & GitHub
+* Linux
+* HTML & CSS
 
-$ cat ./system_status.log
+## Backend Roadmap
 
-[+] STATUS: Building software engineering fundamentals.
-[+] CURRENT FOCUS: C, Python, Algorithms, Data Structures & Backend Development.
-[+] ENVIRONMENT: Fedora Linux
-[+] INTERFACE: Terminal
-[+] PHILOSOPHY: "Understand the system. Build the solution."
+* Python
+* SQL & PostgreSQL
+* REST APIs
+* Authentication
+* Docker
+* Cloud
+* Backend Architecture
 
+## Projects
 
-$ tree ./tech_stack/ --level=2
+Currently building projects to practice programming fundamentals and develop my backend skills.
 
-├── 01_languages
-│   ├── Python
-│   ├── C
-│   ├── HTML5
-│   └── CSS3
-│
-├── 02_tools
-│   ├── Linux (Fedora)
-│   ├── Git
-│   ├── GitHub
-│   ├── VS Code
-│   └── Neovim
-│
-└── 03_currently_learning
-    ├── Algorithms
-    ├── Data Structures
-    ├── Computer Architecture
-    ├── Memory Management
-    └── Backend Development
+## Goals
 
+* Build real-world backend projects
+* Become a Backend Developer
+* Contribute to Open Source
+* Continuously improve my programming skills
 
-$ cat ./roadmap.path
+## Contact
 
-[0x01] PROGRAMMING FOUNDATIONS
-   └─► C | Python | Programming Fundamentals
-
-[0x02] COMPUTER SCIENCE CORE
-   └─► Algorithms | Data Structures | Computer Architecture
-
-[0x03] BACKEND ENGINEERING
-   └─► HTTP | REST APIs | Authentication | Backend Architecture
-
-[0x04] DATA INFRASTRUCTURE
-   └─► SQL | PostgreSQL | Data Modeling | Database Design
-
-[0x05] DEVOPS & DEPLOYMENT
-   └─► Linux | Docker | CI/CD | Cloud Infrastructure
-
-
-$ cat ./directives.target
-
-[ ] Strengthen C & Low-Level Fundamentals
-[ ] Improve Python Programming
-[ ] Master Algorithms & Data Structures
-[ ] Build Practical Backend Projects
-[ ] Build Production-Ready REST APIs
-[ ] Master SQL & PostgreSQL
-[ ] Learn Secure Authentication
-[ ] Containerize Applications with Docker
-[ ] Deploy Systems to the Cloud
-[ ] Contribute to Open Source
-[ ] Transition to Full-Time Backend Developer
-
-
-$ ./connect_remote.sh --user nicolas
-
-+-----------------------------------------------------------------------+
-|  LINKEDIN:  [https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/seu-perfil/)                  |
-|  EMAIL:     nicolashenriquens@hotmail.com                            |
-+-----------------------------------------------------------------------+
-
-$ exit
-
-[Process completed]
-
-> Keep learning.
-> Keep building.
-> Keep improving.
+* LinkedIn: [My LinkedIn](www.linkedin.com/in/nicolas-henrique-backend)
+* Email: [nicolashenriquens@hotmail.com](mailto:nicolashenriquens@hotmail.com)
