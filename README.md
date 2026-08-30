@@ -1,60 +1,69 @@
-# Olá! 👋 Eu sou Nicolas Henrique
+# Hello! 👋 I'm Nicolas Henrique
 
-🎓 Estudante de **Ciência da Computação**
+🎓 Computer Science Student
 
-💻 Atualmente aprendendo **programação e desenvolvimento de software**
+💻 Currently learning programming and software development
 
-🐍 Estudando principalmente **Python**
+🐍 Mainly studying **Python**
 
-🌱 Construindo meus primeiros projetos e desenvolvendo fundamentos de Ciência da Computação
+🌱 Building my first projects and developing a strong foundation in Computer Science
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-Sou estudante de Ciência da Computação e estou construindo minha base em programação, algoritmos e estruturas de dados.
+I'm a Computer Science student currently building my foundation in programming, algorithms, and data structures.
 
-Atualmente, estou focado em:
+I'm currently focused on:
 
 * 🐍 Python
-* 💻 Linguagem C
-* 🧠 Algoritmos e estruturas de dados
-* 🌐 HTML e CSS
-* 🐙 Git e GitHub
+* 💻 C
+* 🧠 Algorithms and Data Structures
+* 🌐 HTML and CSS
+* 🐙 Git and GitHub
 * 🐧 Linux
-* 📚 Fundamentos de Ciência da Computação
+* 📚 Computer Science Fundamentals
 
-Meu objetivo é evoluir constantemente através de **projetos, estudos e prática**, construindo uma base sólida para trabalhar profissionalmente com desenvolvimento de software.
+My goal is to continuously improve through **projects, studying, and hands-on practice**, while building a strong foundation to pursue a professional career in software development.
 
-## 📚 Atualmente estudando
+## 📚 Currently Learning
 
 ```text
-Python              ███████░░░  Aprendendo
-C                   ██████░░░░  Aprendendo
-Algoritmos          ██████░░░░  Aprendendo
-Estruturas de Dados █████░░░░░  Aprendendo
-Git/GitHub          ██████░░░░  Aprendendo
-Linux               █████░░░░░  Aprendendo
-HTML/CSS            ██████░░░░  Aprendendo
+Python              ███████░░░  Learning
+C                   ██████░░░░  Learning
+Algorithms          ██████░░░░  Learning
+Data Structures     █████░░░░░  Learning
+Git/GitHub          ██████░░░░  Learning
+Linux               █████░░░░░  Learning
+HTML/CSS            ██████░░░░  Learning
 ```
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies
 
-### Linguagens
+### Languages
 
 * Python
 * C
 * HTML
 * CSS
 
-### Ferramentas
+### Tools
 
 * Git
 * GitHub
 * VS Code
 * Linux
 
-### 📬 Vamos nos conectar?
+## 🎯 Goals
 
-* 💼 **LinkedIn:** [seu-perfil](https://www.linkedin.com/in/seu-perfil/)
-* 📧 **E-mail:** [seu-email@email.com](mailto:nicolashenriquens@hotmail.com)
+* Build practical programming projects
+* Improve my problem-solving skills
+* Strengthen my knowledge of algorithms and data structures
+* Learn backend development
+* Contribute to open-source projects
+* Build a professional portfolio
 
-⭐ Obrigado por visitar meu perfil!
+## 📬 Let's Connect
+
+* 💼 **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/seu-perfil/)
+* 📧 **Email:** [Contact Me](mailto:nicolashenriquens@hotmail.com)
+
+⭐ Thanks for visiting my profile!
