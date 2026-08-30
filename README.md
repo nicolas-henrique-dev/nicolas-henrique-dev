@@ -1,69 +1,97 @@
-# Hello! 👋 I'm Nicolas Henrique
+# ==============================================================================
+#                  SYSTEM ACCESS: GRANTED // USER: NICOLAS
+# ==============================================================================
 
-🎓 Computer Science Student
+$ whoami
 
-💻 Currently learning programming and software development
+Nicolas Henrique
 
-🐍 Mainly studying **Python**
+Computer Science Student
+Aspiring Backend Developer
+Brazil
 
-🌱 Building my first projects and developing a strong foundation in Computer Science
 
-## 🚀 About Me
 
-I'm a Computer Science student currently building my foundation in programming, algorithms, and data structures.
+$ cat ./system_status.log
 
-I'm currently focused on:
+[+] STATUS: Building software engineering fundamentals.
+[+] CURRENT FOCUS: C, Python, Algorithms, Data Structures & Backend Development.
+[+] ENVIRONMENT: Fedora Linux
+[+] INTERFACE: Terminal
+[+] PHILOSOPHY: "Understand the system. Build the solution."
 
-* 🐍 Python
-* 💻 C
-* 🧠 Algorithms and Data Structures
-* 🌐 HTML and CSS
-* 🐙 Git and GitHub
-* 🐧 Linux
-* 📚 Computer Science Fundamentals
 
-My goal is to continuously improve through **projects, studying, and hands-on practice**, while building a strong foundation to pursue a professional career in software development.
 
-## 📚 Currently Learning
 
-```text
-Python              ███████░░░  Learning
-C                   ██████░░░░  Learning
-Algorithms          ██████░░░░  Learning
-Data Structures     █████░░░░░  Learning
-Git/GitHub          ██████░░░░  Learning
-Linux               █████░░░░░  Learning
-HTML/CSS            ██████░░░░  Learning
-```
+$ tree ./tech_stack/ --level=2
 
-## 🛠️ Technologies
+├── 01_languages
+│   ├── Python
+│   ├── C
+│   ├── HTML5
+│   └── CSS3
+│
+├── 02_tools
+│   ├── Linux (Fedora)
+│   ├── Git
+│   ├── GitHub
+│   ├── VS Code
+│   └── Neovim
+│
+└── 03_currently_learning
+    ├── Algorithms
+    ├── Data Structures
+    ├── Computer Architecture
+    ├── Memory Management
+    └── Backend Development
 
-### Languages
 
-* Python
-* C
-* HTML
-* CSS
 
-### Tools
+$ cat ./roadmap.path
 
-* Git
-* GitHub
-* VS Code
-* Linux
+[0x01] PROGRAMMING FOUNDATIONS
+   └─► C | Python | Programming Fundamentals
 
-## 🎯 Goals
+[0x02] COMPUTER SCIENCE CORE
+   └─► Algorithms | Data Structures | Computer Architecture
 
-* Build practical programming projects
-* Improve my problem-solving skills
-* Strengthen my knowledge of algorithms and data structures
-* Learn backend development
-* Contribute to open-source projects
-* Build a professional portfolio
+[0x03] BACKEND ENGINEERING
+   └─► HTTP | REST APIs | Authentication | Backend Architecture
 
-## 📬 Let's Connect
+[0x04] DATA INFRASTRUCTURE
+   └─► SQL | PostgreSQL | Data Modeling | Database Design
 
-* 💼 **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/seu-perfil/)
-* 📧 **Email:** [Contact Me](mailto:nicolashenriquens@hotmail.com)
+[0x05] DEVOPS & DEPLOYMENT
+   └─► Linux | Docker | CI/CD | Cloud Infrastructure
 
-⭐ Thanks for visiting my profile!
+
+
+$ cat ./directives.target
+
+[ ] Strengthen C & Low-Level Fundamentals
+[ ] Improve Python Programming
+[ ] Master Algorithms & Data Structures
+[ ] Build Practical Backend Projects
+[ ] Build Production-Ready REST APIs
+[ ] Master SQL & PostgreSQL
+[ ] Learn Secure Authentication
+[ ] Containerize Applications with Docker
+[ ] Deploy Systems to the Cloud
+[ ] Contribute to Open Source
+[ ] Transition to Full-Time Backend Developer
+
+
+
+$ ./connect_remote.sh --user nicolas
+
++-----------------------------------------------------------------------+
+|  LINKEDIN:  https://www.linkedin.com/in/seu-perfil/                  |
+|  EMAIL:     nicolashenriquens@hotmail.com                            |
++-----------------------------------------------------------------------+
+
+$ exit
+
+[Process completed]
+> Keep learning.
+> Keep building.
+> Keep improving.
