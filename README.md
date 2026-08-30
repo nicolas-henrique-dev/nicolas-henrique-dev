@@ -80,7 +80,7 @@ $ cat ./directives.target
 $ ./connect_remote.sh --user nicolas
 
 +-----------------------------------------------------------------------+
-|  LINKEDIN:  https://www.linkedin.com/in/seu-perfil/                  |
+|  LINKEDIN:  [https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/seu-perfil/)                  |
 |  EMAIL:     nicolashenriquens@hotmail.com                            |
 +-----------------------------------------------------------------------+
 
@@ -91,7 +91,3 @@ $ exit
 > Keep learning.
 > Keep building.
 > Keep improving.
-````
-
-```
-```
