@@ -1,6 +1,3 @@
-````markdown
-# Nicolas Henrique
-
 ```text
 # ==============================================================================
 #                  SYSTEM ACCESS: GRANTED // USER: NICOLAS
