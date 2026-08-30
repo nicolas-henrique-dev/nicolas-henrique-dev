@@ -1,3 +1,7 @@
+````markdown
+# Nicolas Henrique
+
+```text
 # ==============================================================================
 #                  SYSTEM ACCESS: GRANTED // USER: NICOLAS
 # ==============================================================================
@@ -11,7 +15,6 @@ Aspiring Backend Developer
 Brazil
 
 
-
 $ cat ./system_status.log
 
 [+] STATUS: Building software engineering fundamentals.
@@ -19,8 +22,6 @@ $ cat ./system_status.log
 [+] ENVIRONMENT: Fedora Linux
 [+] INTERFACE: Terminal
 [+] PHILOSOPHY: "Understand the system. Build the solution."
-
-
 
 
 $ tree ./tech_stack/ --level=2
@@ -46,7 +47,6 @@ $ tree ./tech_stack/ --level=2
     └── Backend Development
 
 
-
 $ cat ./roadmap.path
 
 [0x01] PROGRAMMING FOUNDATIONS
@@ -65,7 +65,6 @@ $ cat ./roadmap.path
    └─► Linux | Docker | CI/CD | Cloud Infrastructure
 
 
-
 $ cat ./directives.target
 
 [ ] Strengthen C & Low-Level Fundamentals
@@ -81,7 +80,6 @@ $ cat ./directives.target
 [ ] Transition to Full-Time Backend Developer
 
 
-
 $ ./connect_remote.sh --user nicolas
 
 +-----------------------------------------------------------------------+
@@ -92,6 +90,11 @@ $ ./connect_remote.sh --user nicolas
 $ exit
 
 [Process completed]
+
 > Keep learning.
 > Keep building.
 > Keep improving.
+````
+
+```
+```
