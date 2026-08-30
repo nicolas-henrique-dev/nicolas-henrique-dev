@@ -1,5 +1,3 @@
-# NICOLAS HENRIQUE
-
 
 $whoiam
 
