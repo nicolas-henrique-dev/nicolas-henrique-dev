@@ -1,68 +1,52 @@
-# <a href="https://emoji.gg/emoji/5573-okcat"><img src="https://cdn3.emoji.gg/emojis/5573-okcat.png" width="40px" height="40px" alt="okcat"></a> WELCOME MY FRIEND!
+# Hi there, I'm Nick 👋
 
-```text
-███╗   ██╗██╗ ██████╗██╗  ██╗
-████╗  ██║██║██╔════╝██║ ██╔╝
-██╔██╗ ██║██║██║     █████╔╝ 
-██║╚██╗██║██║██║     ██╔═██╗ 
-██║ ╚████║██║╚██████╗██║  ██╗
-╚═╝  ╚═══╝╚═╝ ╚═════╝╚═╝  ╚═╝
-
-     尼 古 拉 斯 · 恩 里 克
-```
-
->  💻 Computer Science Student • 🚀 Backend Developer in Progress
+I'm a Computer Science student currently building my foundations in programming, computer science, databases, and backend development. I'm documenting my learning journey, projects, and progress here on GitHub.
 
 ---
 
-## 🧑‍💻 About Me
+### 📚 What I'm Up To
 
-```yaml
-nickname: Nick
-name: Nicolas Henrique
-role: Computer Science Student
-goal: Backend Developer
-country: Brazil 🇧🇷
-
-currently_learning:
-  - Python 
-  - Computer Science
-```
-
+* 🎓 **Education:** Computer Science student
+* 💻 **Currently Learning:** Python, Computer Science Fundamentals
+* 🎯 **Career Goal:** Become a Backend Developer
+* 🚀 **Current Focus:** Python
+* 🌎 **Languages:** Portuguese 🇧🇷 · English 🇺🇸 · Chinese 🇨🇳
+* 📖 **Learning:** English and Mandarin Chinese
+* ⚡ **Fun Fact:** I enjoy programming, studying languages, solving problems, and exploring technology.
 
 ---
 
-## 🐧 Tech Stack
+### 🛠 Tech Stack & Tools
 
-```text
-╭────────────────────────────────────╮
-│                                    │
-│  LANGUAGES                         │
-│  🌐 HTML / CSS                     │
-│  🐍 Python                         │
-│                                    │
-│  TOOLS                             │
-│  🐧 Linux                          │
-│  🔧 Git                            │
-│  🐙 GitHub                         │
-│  💻 VS Code                        │
-│                                    │
-│  HUMAN LANGUAGES                   │
-│  🇧🇷 Portuguese (Native)            │
-│  🇺🇸 English (A1)                   │
-│  🇨🇳 Mandarin (HSK 1)               │
-│                                    │
-╰────────────────────────────────────╯
-```
+**Languages**
 
-## 🌐 CONNECT
-
-```text
-🐙 GitHub
-@nicolas-henrique-dev
-
-💼 LinkedIn
-@nicolas-henrique-backend
-```
+* Python — Learning
+* C — Learning
+* HTML5 — Basics
+* CSS3 — Basics
+* SQL — Learning
 
 
+**Tools & Environment**
+
+* Git
+* GitHub
+* VS Code
+
+---
+
+
+### 📊 GitHub Stats
+
+![Nicolas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolas-henrique-dev\&show_icons=true\&theme=radical)
+
+---
+
+### 📫 Connect With Me
+
+* 💼 **LinkedIn:** [nicolas-henrique-backend](https://www.linkedin.com/in/nicolas-henrique-backend/)
+* 💻 **GitHub:** [nicolas-henrique-dev](https://github.com/nicolas-henrique-dev)
+
+---
+
+> "Learning every day, building step by step."
